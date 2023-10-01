@@ -1,0 +1,192 @@
+{"properties": [
+  {
+    "name": "spring.db1.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db1.datasource.url'"
+  },
+  {
+    "name": "spring.db1.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db1.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.db1.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db1.datasource.username'"
+  },
+  {
+    "name": "spring.db1.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db1.datasource.password'"
+  },
+  {
+    "name": "spring.db2.second.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.second.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.db2.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.db2.second.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.second.datasource.username'"
+  },
+  {
+    "name": "spring.db2.second.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.second.datasource.password'"
+  },
+  {
+    "name": "spring.db2.second.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.second.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.db2.second.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.second.datasource.url'"
+  },
+  {
+    "name": "spring.db2.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.datasource.username'"
+  },
+  {
+    "name": "spring.db2.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.datasource.password'"
+  },
+  {
+    "name": "spring.db2.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.db2.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.datasource.jdbc-url'"
+  },
+  {
+    "name": "second.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'second.datasource.driver-class-name'"
+  },
+  {
+    "name": "second.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'second.datasource.url'"
+  },
+  {
+    "name": "second.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'second.datasource.username'"
+  },
+  {
+    "name": "second.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'second.datasource.password'"
+  },
+  {
+    "name": "spring.db2.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.db2.datasource.url'"
+  },
+  {
+    "name": "spring.second.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.datasource.url'"
+  },
+  {
+    "name": "spring.second.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.second.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.datasource.username'"
+  },
+  {
+    "name": "spring.second.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second.datasource.password'"
+  },
+  {
+    "name": "userlist.users",
+    "type": "java.lang.String",
+    "description": "A description for 'userlist.users'"
+  },
+  {
+    "name": "userlist.users",
+    "type": "java.lang.String",
+    "description": "A description for 'userlist.users'"
+  },
+  {
+    "name": "spring.config.activate.on-profiles",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.config.activate.on-profiles'"
+  },
+  {
+    "name": "datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driver-class-name'"
+  },
+  {
+    "name": "datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.password'"
+  },
+  {
+    "name": "datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.url'"
+  },
+  {
+    "name": "datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.username'"
+  },
+  {
+    "name": "h2.console.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'h2.console.enabled'"
+  },
+  {
+    "name": "jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.database-platform'"
+  },
+  {
+    "name": "jpa.defer-datasource-initialization",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.defer-datasource-initialization'"
+  },
+  {
+    "name": "jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.dialect'"
+  },
+  {
+    "name": "jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.show-sql'"
+  },
+  {
+    "name": "spring.userlist.users",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.userlist.users'"
+  },
+  {
+    "name": "spring.config.activate.on-profiles",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.config.activate.on-profiles'"
+  }
+]}
